@@ -1,4 +1,4 @@
-# Launch Game Studios
+# Launch Game Studio
 
 We will use the following tools:
 
